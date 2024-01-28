@@ -174,7 +174,11 @@ nav {
 
 li:active {
   color: #5459EA;
-  background-color: white;
   border-radius: 15px;
   border-radius: 22px ;
+  background-color: white;
+  }
+
+.img-info {
+ background-color: #5459EA; 
 }
